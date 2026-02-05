@@ -155,7 +155,7 @@ span {
   margin-bottom: 15px;
   font-weight: bold;
 }
-#btn-ordrer {
+.btn-ordrer {
   padding: 10px 20px;
   font-size: 14px;
   color: #fff;
@@ -168,11 +168,11 @@ span {
     background-color 0.3s ease,
     transform 0.3s ease;
 }
-#btn-ordrer:hover {
+.btn-ordrer:hover {
   background-color: #b43a57;
   transform: scale(1.05);
 }
-#btn-ordrer:active {
+.btn-ordrer:active {
   transform: scale(0.95);
 }
 #btn-2 {
