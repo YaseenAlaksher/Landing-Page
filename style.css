@@ -274,3 +274,10 @@ span {
   margin-bottom: 15px;
   font-weight: bold;
 }
+@media (max-width: 768px) {
+  .product-gallery,
+  .My-Products {
+    flex-direction: column;
+    align-items: center;
+  }
+}
